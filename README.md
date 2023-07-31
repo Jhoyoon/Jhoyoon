@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-#00FF00?style=flat&logo=OpenJDK&logoColor=white"/>
