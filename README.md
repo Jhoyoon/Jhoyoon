@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hello-nl-I'm%20hoyoon&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hello-nl-I'm%20hoyoonㄷㄷ&fontSize=50)
 
 <img src="https://img.shields.io/badge/Java-006400?style=plastic&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
