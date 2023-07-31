@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=안녕하세요-nl-백엔드%20개발자%20취준생%20정호윤입니다.&fontSize=40)
+
 <div align=center>
 
   <h1>:raised_hands: introduction</h1><br> 
