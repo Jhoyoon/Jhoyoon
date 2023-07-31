@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoyoon&layout=compact)](https://github.com/Jhoyoon/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Hello-nl-I'm%20hoyoon&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Hello-nl-I'm%20hoyoon&fontSize=30)
