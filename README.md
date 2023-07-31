@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=안녕하세요-nl-백엔드%20개발자%20취준생%20정호윤입니다.&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=안녕하세요-nl-&descSize=30백엔드%20개발자%20취준생%20정호윤입니다.&fontSize=50)
 
 <img src="https://img.shields.io/badge/Java-006400?style=plastic&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
