@@ -11,4 +11,3 @@
 </div>
 <a> src="https://www.credly.com/badges/52528a01-923f-4b1d-b418-dce9a3a25b65/public_url"</a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="52528a01-923f-4b1d-b418-dce9a3a25b65" data-share-badge-host="https://www.credly.com"></div>
